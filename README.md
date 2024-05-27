@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Linimochi
-- 👀 I’m interested in HELLO KITTY
-- 🌱 I’m currently learning HTML,PYTYHON AND EVERTHING
-- 💞️ I’m looking to collaborate on TESTE
-- 📫 How to reach me IDK
+<html>
+  <body/>
+    <h1 style="color: pink">👋 Hi, I’m @AlineCamille</h1>
+    -  1° semester of ADS
+    - 👀 I’m interested in front-end
+    - 🌱 I’m currently learning HTML,PYTYHON AND EVERTHING
+    - I hope help and inspiration you!
+  </body/>
+</html>
 
 <!---
 Linimochi/Linimochi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
