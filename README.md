@@ -1,12 +1,13 @@
 <html>
   <body/>
-    .´.´.´.´.´.´.´.´.´.´.´.´.´.´.´.´.´.´.´.´.´.´.´.´.´.
+----------------------------------------------------------------------
     <h1 style="color: pink">👋 Hi, I’m @AlineCamille</h1>
-    -  1° semester of ADS
-    - 👀 I’m interested in front-end
-    - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, C ANDPYTYHON.
-    - I hope help and inspiration you!
-    -.-.-..--.-.-.-.--..-..-.---..--.-.-.-.-.-.--.-.--.-.-.--.-.--.-.-.-
+----------------------------------------------------------------------  
+    <h2> I'm an ADS student and I'm in the second semester </h2>
+  - 👀 I’m interested in learning more and being a front-end developer.
+   <p> - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, C, PHP and PYTYHON.</p>
+    <p>- I hope help and inspiration you! <3</p>
+
   </body/>
 </html>
 
