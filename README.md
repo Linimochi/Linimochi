@@ -4,13 +4,13 @@
 echo "Apaixonada por criar e aprender , motivada a ajudar ultilizando tecnologia.";
 
 ### Competências e aprendizados:
-- **Desenvolvimento Web**: JavaScript, HTML, CSS
+- **Desenvolvimento Web**: JavaScript, HTML, CSS, Bootstrap
 - **Back-End**: C, Python, PHP
 - **Banco de Dados**: SQL
 
 ### Projetos Destacados:
 - [CRUD](https://github.com/Linimochi/Crud):
-Crud funcional ultilizando html, css, php e sql.
+Crud funcional ultilizando html, css, php, sql e bootstrap.
 Esse projeto é uma area de login, aonde o usuario pode armazenar suas informações,
 editar as mesmas e até mesmo excluir.
 
