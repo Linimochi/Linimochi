@@ -1,17 +1,29 @@
-<html>
-  <body/>
-----------------------------------------------------------------------
-    <h1 style="color: pink">👋 Hi, I’m @AlineCamille</h1>
-----------------------------------------------------------------------  
-    <h2> I'm an ADS student and I'm in the second semester </h2>
-  - 👀 I’m interested in learning more and being a front-end developer.
-   <p> - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, C, PHP and PYTYHON.</p>
-    <p>- I hope help and inspiration you! <3</p>
+<h1>✨Olá! Sou Aline Camille!!✨</h1>
 
-  </body/>
-</html>
+<h2>Printf("Sou estudante de ADS atualmente no 2°Semestre 🎓");</h2>
+echo "Apaixonada por criar e aprender , motivada a ajudar ultilizando tecnologia.";
 
-<!---
-Linimochi/Linimochi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Competências e aprendizados:
+- **Desenvolvimento Web**: JavaScript, HTML, CSS
+- **Back-End**: C, Python, PHP
+- **Banco de Dados**: SQL
+
+### Projetos Destacados:
+- [Crud](link_para_o_projeto):
+Crud funcional ultilizando html, css, php e sql.
+Esse projeto é uma area de login, aonde o usuario pode armazenar suas informações,
+editar as mesmas e até mesmo excluir.
+
+### Interesses:
+- Programação web
+- Aprendizagem Front-end
+- Internet das Coisas
+
+### Contato:
+Tem alguma duvida ou feedback? Entre em contato !!
+- **Linkedin:** https://www.linkedin.com/in/aline-c-270868244/
+- **Email:** alinelaurindodev@gmail.com
+
+-------------------------------------------------------------------------------------------------
+
+
